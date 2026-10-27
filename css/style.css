@@ -270,6 +270,9 @@ button {
 .intro p:last-child {
 	margin-bottom: 0;
 }
+.intro .muted a {
+	white-space: nowrap;
+}
 .headshot {
 	flex-shrink: 0;
 	width: 8.5rem;
